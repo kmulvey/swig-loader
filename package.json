@@ -7,7 +7,7 @@
 		"loader-utils": "~0.2.5"
 	},
 	"peerDependencies": {
-		"swigjs": ""
+		"swig": ""
 	},
 	"devDependencies": {
 		"mocha": "*",
