@@ -1,13 +1,13 @@
 {
-	"name": "jade-loader",
-	"version": "0.7.0",
-	"author": "Tobias Koppers @sokra",
-	"description": "jade loader module for webpack",
+	"name": "swig-loader",
+	"version": "0.0.1",
+	"author": "Kevin Mulvey",
+	"description": "swig loader module for webpack",
 	"dependencies": {
 		"loader-utils": "~0.2.5"
 	},
 	"peerDependencies": {
-		"jade": "^1.7.0"
+		"swigjs": ""
 	},
 	"devDependencies": {
 		"mocha": "*",
@@ -18,7 +18,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/webpack/jade-loader.git"
+		"url": "git://github.com/kmulvey/swig-loader.git"
 	},
 	"licenses": [
 		{
