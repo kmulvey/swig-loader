@@ -1,9 +1,9 @@
-# jade loader for webpack
+# swig loader for webpack
 
 ## Usage
 
 ``` javascript
-var template = require("jade!./file.jade");
+var template = require("swig!./file.html");
 // => returns file.jade content as template function
 ```
 
